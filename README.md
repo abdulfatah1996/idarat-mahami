@@ -52,17 +52,21 @@
 
 ## Demo Credentials
 
-| Email              | Password     |
-|-------------------|--------------|
-| user@example.com  | password     |
+## 🔐 Access the System
+
+To try the system, please create a new account:
+
+👉 [Register a new account](your-app-url/register)
+
+*No demo credentials provided — you can explore all features by creating your own test account.*
 
 ---
 
 ## 🚀 Run the Project Locally
 
 ```bash
-git clone https://github.com/USERNAME/TASK-REPO.git
-cd TASK-REPO
+git clone https://github.com/abdulfatah1996/idarat-mahami.git
+cd idarat-mahami
 
 composer install
 cp .env.example .env
