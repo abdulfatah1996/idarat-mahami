@@ -62,6 +62,16 @@ To try the system, please create a new account:
 
 ---
 
+## 🎥 Video Demo
+
+Watch a full walkthrough of the system in action:
+
+[![Watch the video](public/images/dashboard.png)](https://youtu.be/XwGVx2xAFl8)
+
+> Click the thumbnail above to watch the demo on YouTube.
+
+---
+
 ## 🚀 Run the Project Locally
 
 ```bash
